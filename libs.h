@@ -1,0 +1,23 @@
+#pragma once
+#include <iostream>
+#include <glew.h>
+#include <glfw3.h>
+#include <string>
+#include <glm.hpp>
+#include <string>
+#include <vec2.hpp>
+#include <vec3.hpp>
+#include <vec4.hpp>
+#include <mat4x4.hpp>
+#include <gtc\matrix_transform.hpp>
+#include <gtc\type_ptr.hpp>
+#include <fstream>
+#include<SOIL2.h>
+#include "Vertex.h"
+#include "primitives.h"
+#include "shader.h"
+#include "tekstury.h"
+#include "Material.h"
+#include "mesh.h"
+#include "Game.h"
+#include "Model.h"
